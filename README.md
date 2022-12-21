@@ -30,6 +30,6 @@
   </div>
 		
 		
-			
+ ![Snake animation](https://github.com/mariaclaudiacs/mariaclaudiacs/blob/output/github-contribution-grid-snake.svg)			
 
 
