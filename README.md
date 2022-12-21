@@ -1,4 +1,5 @@
-  <div>
+
+ <div>
    <h1>Quem sou eu?👋</h1>
     <p>&nbsp;Olá, eu sou a Maria Claudia. Tenho 18 anos e me considero uma pessoa bastante aficionada naquilo que me proponho a realizar. Assim sendo, encontrei na tecnologia e
       no desenvolvimento o refúgio ideal para meus maiores ímpetos criativos! ✨
@@ -27,5 +28,8 @@
     <a href = "&nbsp; mailto:itisclaudia1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="&nbsp; https://www.linkedin.com/in/itisclaudia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
+		
+  ![Snake animation](https://github.com/mariaclaudiacs/mariaclaudiacs/blob/output/github-contribution-grid-snake.svg)		
+			
 
 
