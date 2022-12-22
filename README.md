@@ -13,23 +13,22 @@
   </div>
   <div>
   <h1>&nbsp;🛠 Habilidades💡</h1>
-      <ul>
-        <li>C#</li>
-        <li>.NET 6.0</li>
-        <li>Padrão MVC</li>
-        <li>Microsoft SQL Server</li>
-        <li>JavaScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
-      </ul>
+      <dl>
+        <dd>C#</dd>
+        <dd>.NET 6.0</dd>
+        <dd>Padrão MVC</dd>
+        <dd>Microsoft SQL Server</dd>
+        <dd>JavaScript</dd>
+        <dd>HTML</dd>
+        <dd>CSS</dd>
+      </dl>
   </div>
   <div>
 	<h1>&nbsp;📫 Contatos:<h1>
     <a href = "&nbsp; mailto:itisclaudia1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="&nbsp; https://www.linkedin.com/in/itisclaudia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
-		
-		
+			
  ![Snake animation](https://github.com/mariaclaudiacs/mariaclaudiacs/blob/output/github-contribution-grid-snake.svg)			
 
 
