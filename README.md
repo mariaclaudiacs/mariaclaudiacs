@@ -1,14 +1,10 @@
 
  <div>
    <h1>Quem sou eu?👋</h1>
-    <p>&nbsp;Olá, eu sou a Maria Claudia. Tenho 18 anos e me considero uma pessoa bastante aficionada naquilo que me proponho a realizar. Assim sendo, encontrei na tecnologia e
-      no desenvolvimento o refúgio ideal para meus maiores ímpetos criativos! ✨
+    <p>&nbsp;Olá, meu nome é Maria. Tenho 18 anos atualmente e iniciei no mundo de desenvolvimento em agosto de 2022. A tecnologia me representa a forma sofisticada de exercitar a criatividade e o ato de solucionar. 
     </p>
-    <p>&nbsp;Fora do contexto de desenvolvimento, sou uma pessoa extremamente multifacetada e me interesso bastante pelo cérebro humano e autoconhecimento. Na categoria de tipologia
-      de funções cognitivas me encontro no perfil ENTP, comumente referido como "O Visionário". 🧠
-    </p>
-    <p>&nbsp;📚 Gosto bastante de ler, escrever, sou fluente em inglês e como hobby toco violão, jogo xadrez e Sudoku. Também sou uma pessoa de fácil aproximação, assim sendo, sinta-se 
-      livre para me contatar, discutir novas ideias, oferecer dicas ou até mesmo se unir em um projeto! 😇
+    <p>&nbsp;📚 Pessoalmente falando, sou fluente em inglês e busco sempre aprender mais. Sinta-se 
+      livre para me contatar, discutir novas ideias, oferecer dicas ou até mesmo se unir em um projeto.
     </p>
   </div>
   <div>
@@ -16,7 +12,7 @@
       <dl>
         <dd>C#</dd>
         <dd>.NET 6.0</dd>
-        <dd>Padrão MVC</dd>
+        <dd>MVC</dd>
         <dd>Microsoft SQL Server</dd>
         <dd>JavaScript</dd>
         <dd>HTML</dd>
