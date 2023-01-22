@@ -9,7 +9,7 @@
   </div>
   <div>
   <h1>&nbsp;🛠 Habilidades💡</h1>
-  	<p>&nbsp; Evidentemente, não num nível masterizado, mas de coisas que tive contato com até então, enquadram-se as tecnologias: </p>
+  	<h4>Evidentemente, não num nível masterizado, mas sim de coisas que tive contato com até então, enquadram-se as tecnologias: </h4>
       <dl>
         <dd>C#</dd>
         <dd>.NET 6.0</dd>
