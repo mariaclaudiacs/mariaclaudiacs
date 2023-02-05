@@ -3,19 +3,18 @@
    <h1>Quem sou eu?👋</h1>
     <p>&nbsp;Olá, meu nome é Maria. Tenho 18 anos atualmente e iniciei no mundo de desenvolvimento em agosto de 2022. A tecnologia me representa a forma sofisticada de exercitar a criatividade e o ato de solucionar. 
     </p>
-    <p>&nbsp;📚 Pessoalmente falando, sou fluente em inglês e busco sempre aprender mais. Sinta-se 
+    <p>&nbsp;📚 Pessoalmente falando, estou sempre procurando aprender mais, assim sendo, sinta-se 
       livre para me contatar, discutir novas ideias, oferecer dicas ou até mesmo se unir em um projeto.
     </p>
   </div>
   <div>
   <h1>&nbsp;🛠 Habilidades💡</h1>
-  	<h4>Evidentemente, não num nível masterizado, mas sim de coisas que tive contato com até então, enquadram-se as tecnologias: </h4>
+  	<h4>Estas são as tecnologias que estudo: </h4>
       <dl>
         <dd>C#</dd>
-        <dd>.NET 6.0</dd>
+	<dd>.Net 6.0</dd>
         <dd>MVC</dd>
         <dd>Microsoft SQL Server</dd>
-        <dd>JavaScript</dd>
         <dd>HTML</dd>
         <dd>CSS</dd>
       </dl>
