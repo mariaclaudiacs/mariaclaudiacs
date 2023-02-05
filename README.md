@@ -3,7 +3,7 @@
    <h1>Quem sou eu?👋</h1>
     <p>&nbsp;Olá, meu nome é Maria. Tenho 18 anos atualmente e iniciei no mundo de desenvolvimento em agosto de 2022. A tecnologia me representa a forma sofisticada de exercitar a criatividade e o ato de solucionar. 
     </p>
-    <p>&nbsp;📚 Pessoalmente falando, estou sempre procurando aprender mais, assim sendo, sinta-se 
+    <p>&nbsp;📚 Pessoalmente falando, sou uma pessoa que está sempre procurando aprender mais. Assim sendo, sinta-se 
       livre para me contatar, discutir novas ideias, oferecer dicas ou até mesmo se unir em um projeto.
     </p>
   </div>
