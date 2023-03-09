@@ -10,7 +10,7 @@
   <div>
   <h1>&nbsp;🛠 Habilidades💡</h1>
   	<h4>Estas são as tecnologias que estudo: </h4>
-      <p>C#, .Net 6.0, MVC, SQL Server, JavaScript e Python voltado à análise de dados.</p>
+      <p>C#, .Net, SQL Server, CSS, HTML, JavaScript, Java, Rest API's e Python voltado à analise de dados.</p>
   </div>
   <div>
 	<h1>&nbsp;📫 Contatos:<h1>
